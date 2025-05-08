@@ -4,12 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>¡Morals!</title>
     <style>
-        body {
-            margin: 0;
-            font-family: 'Arial', sans-serif;
-            background: #fef5e7;
-            color: #333;
-        }
+
 
         header {
             background-color: #e74c3c;
